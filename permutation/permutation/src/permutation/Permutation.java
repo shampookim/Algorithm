@@ -2,7 +2,7 @@ package permutation;
 
 import java.util.Arrays;
 
-public class ¼ø¿­ {
+public class Permutation {
 	static int N;
 	static int[] arr;
 	static int[] sel;
